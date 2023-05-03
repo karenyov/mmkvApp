@@ -4,6 +4,8 @@ O melhor jeito de armazenar dados locais? (nova lib?) - MMKV - [Rocketseat](http
 ## Requisitos
 - [Nodejs](https://nodejs.org/en/download/)
 
+## Bibliotecas
+:white_check_mark:	[MMKV](https://www.npmjs.com/package/react-native-mmkv)
 
 ## Rodando
 > Entrar na pasta do projeto e executar: 
