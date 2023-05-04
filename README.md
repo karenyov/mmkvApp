@@ -16,7 +16,7 @@ npm i
 
 
 // executando APP
-expo start
+npx expo run:android
 ```
 
 # Screenshots
